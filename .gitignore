@@ -1,0 +1,7 @@
+venv/
+.idea/
+*.h5
+*.pdf
+*.pptx
+*.docx
+__pycache__/
